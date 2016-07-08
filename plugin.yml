@@ -1,0 +1,9 @@
+name: NoteBlock
+main: NoteBlock\NoteBlock
+author: ikenusi
+version: 1.0.0
+api: [2.0.0]
+load: POSTWORLD
+description: BGMをかける
+commands:
+permissions:
